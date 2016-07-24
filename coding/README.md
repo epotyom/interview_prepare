@@ -1,5 +1,5 @@
-What to review
-==============
+Theory
+======
 
 Sorting algorithms:
 -------------------
@@ -21,4 +21,28 @@ n**2 in the worst case, n log(2)n in average case, no extra memory required, dep
 
 Design patterns:
 ----------------
+TODO
 
+Data structures
+---------------
+TODO
+
+Binary tree
+-----------
+TODO
+
+Linked list
+-----------
+TODO
+
+Object oriented analysis
+------------------------
+TODO
+
+Object oriented design
+----------------------
+TODO
+
+Practice
+========
+TODO
